@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
   - Email: sachinkumarsingh092@gmail.com
+  - LinkedIn: [sachin-kumar-singh-244448188](https://www.linkedin.com/in/sachin-kumar-singh-244448188/)
   - Twitter handle: [@sks_15_](https://twitter.com/sks_15_)
   - Blogs: [sachinkumarsingh092.github.io/blogs](https://sachinkumarsingh092.github.io/blog/)
