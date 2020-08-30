@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on -
   - A RAM efficient index based kd-tree useful for large data manipulation and searchings.
 
-- 🤔 I’m looking for help with any open roles for SWE intern position.
-
 - 📫 How to reach me: 
   - Email: sachinkumarsingh092@gmail.com
   - Twitter handle: [@sks_15_](https://twitter.com/sks_15_)
-  - Blogs: sachinkumarsingh092.github.io/blogs
+  - Blogs: [sachinkumarsingh092.github.io/blogs](https://sachinkumarsingh092.github.io/blog/)
