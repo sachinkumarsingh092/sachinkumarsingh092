@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - *A RAM efficient index based kd-tree useful for large data manipulation and searchings.*
+  - *A RAM efficient index-based `kd-tree` useful for large data manipulation and searchings.*
 
 - 📫 How to reach me: 
   - Email: *sachinkumarsingh092@gmail.com*
