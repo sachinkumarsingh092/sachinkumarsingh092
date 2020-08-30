@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm Sachin, a 3rd year undergrad from New Delhi, India.
 
 <!--
 **sachinkumarsingh092/sachinkumarsingh092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on:
   - A RAM efficient index based kd-tree useful for large data manipulation and searchings.
 
 - 📫 How to reach me: 
