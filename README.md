@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
-  - *A RAM efficient index-based `kd-tree` useful for large data manipulation and searchings.*
+- 🔭 I’m currently working as:
+  - *LFX Intern: Designing and Implementing health subsystem for [SPIFFE/SPIRE](https://spiffe.io/) project.*
 
 - 📫 How to reach me: 
   - Email: *sachinkumarsingh092@gmail.com*
