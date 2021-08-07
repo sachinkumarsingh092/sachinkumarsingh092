@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as:
-  - *LFX Intern: Designing and Implementing health subsystem for [SPIFFE/SPIRE](https://spiffe.io/) project.*
+  - *Software Engineering Intern @HackerRank*
 
 - 📫 How to reach me: 
   - Email: *sachinkumarsingh092@gmail.com*
