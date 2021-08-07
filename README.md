@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Sachin, final year undergrad from New Delhi, India.
+### Hi there 👋. I'm Sachin, a final year undergrad from India.
 
 <!--
 **sachinkumarsingh092/sachinkumarsingh092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
