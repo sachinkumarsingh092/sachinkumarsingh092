@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as:
-  - *Member of technical Staff Intern @VMware*
+  - *Member of technical Staff @VMware*
 
 - 📫 How to reach me: 
   - Email: *sachinkumarsingh092@gmail.com*
